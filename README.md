@@ -16,26 +16,22 @@ I'm currently finishing my degree in **Multiplatform Software Development** at [
 - ☕ Java
 - 📊 Financial/Operational systems
 
-🌍 **Languages**:
-- Portuguese (Native)
-- English (Fluent)
-
----
-
-### 🚀 Tools & Technologies I Use
-
-<!-- Icons: Add icons or badges here using shields.io or other tools -->
-
 <p>
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://www.techasoft.com/debug/img/oracle.png" />
   <img src="https://img.shields.io/badge/Code-Java-blue?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Code-PHP-purple?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/Framework-Django-green?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/DB-MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
   <img src="https://img.shields.io/badge/DB-SQL-lightgrey?style=for-the-badge&logo=sqlite" />
   <img src="https://img.shields.io/badge/Tools-Git-black?style=for-the-badge&logo=git" />
 </p>
+
+---
+
+🌍 **Languages**:
+- Portuguese (Native)
+- English (Fluent)
 
 ---
 
