@@ -12,11 +12,11 @@ I'm currently finishing my degree in **Multiplatform Software Development** at [
 🎯 **Main Focus**: Databases (SQL & NoSQL)
 
 🔧 **Tech Stack**:
-- 💾 SQL / NoSQL (Oracle, MongoDB)  
-- 🌐 Basic Web: HTML, CSS, JavaScript, PHP  
-- 🐍 Python & Django  
-- ☕ Java  
-- 📊 Marketing content (ActiveCampaign, Wordpress)  
+-  SQL / NoSQL (Oracle, MongoDB)  
+-  Basic Web: HTML, CSS, JavaScript, PHP  
+-  Python & Django  
+-  Java  
+-  Marketing content (ActiveCampaign, Wordpress)  
 
 <p align="left">
   <img src="https://www.techasoft.com/debug/img/oracle.png" width="40px" style="margin-right:10px;" />
