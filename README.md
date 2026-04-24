@@ -44,9 +44,9 @@ Aqui estão as tecnologias que utilizo para construir soluções e analisar dado
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| 📱 **[Patatag App](https://github.com/lucaspaiolog/Patatag-app)** | Aplicação interativa focada em feedback tátil e sonoro, explorando recursos de UI/UX em dispositivos móveis. | `Mobile` `UI/UX` |
+| 📱 **[Patatag App](https://github.com/lucaspaiolog/Patatag-app)** | Aplicação interativa focada em feedback tátil e sonoro, explorando recursos de UI/UX em dispositivos móveis. | `Kotlin` `Mobile` `UI/UX` |
 | 🚗 **[Sistema de Estacionamento](https://github.com/lucaspaiolog)** | Gerenciamento de vagas, cálculo de tempo de permanência e persistência de dados. Foco pesado em POO. | `Kotlin` `Android` |
-| 🌐 **[Meu Portfólio / Site Bacana](https://github.com/lucaspaiolog)** | Landing page moderna, responsiva e de alta performance para exibição de projetos. | `HTML/CSS` `Vercel` |
+| 🌐 **[Meu Portfólio / Site Bacana](https://github.com/lucaspaiolog)** | Landing page moderna, responsiva e de alta performance para exibição de projetos. | `Django/Python` `HTML/CSS` |
 
 ---
 
@@ -55,8 +55,4 @@ Aqui estão as tecnologias que utilizo para construir soluções e analisar dado
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucaspaiolog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="Lucas's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaspaiolog&theme=tokyonight&hide_border=true&background=000000" alt="Lucas's Streak" width="48%" />
-</p>
-
-<p align="center">
-  <i>"Transformando café e dados em código funcional." 🚀</i>
 </p>
