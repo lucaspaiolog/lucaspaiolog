@@ -44,9 +44,9 @@ Aqui estão as tecnologias que utilizo para construir soluções e analisar dado
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| 📱 **[Patatag App](https://github.com/lucaspaiolog/Patatag-app)** | Aplicação interativa focada em feedback tátil e sonoro, explorando recursos de UI/UX em dispositivos móveis. | `Kotlin` `Mobile` `UI/UX` |
-| 🚗 **[Sistema de Estacionamento](https://github.com/lucaspaiolog)** | Gerenciamento de vagas, cálculo de tempo de permanência e persistência de dados. Foco pesado em POO. | `Kotlin` `Android` |
-| 🌐 **[Meu Portfólio / Site Bacana](https://github.com/lucaspaiolog)** | Landing page moderna, responsiva e de alta performance para exibição de projetos. | `Django/Python` `HTML/CSS` |
+| 📱 **[Patatag App](https://github.com/lucaspaiolog/Patatag_app)** | Aplicação interativa focada em feedback tátil e sonoro, explorando recursos de UI/UX em dispositivos móveis com IOT aplicado. | `Kotlin` `Mobile` `UI/UX` |
+| 🚗 **[Sistema de Estacionamento](https://github.com/lucaspaiolog/AndroidP2_Cenario6_AppEstacionamento.git)** | Gerenciamento de vagas, cálculo de tempo de permanência e persistência de dados. Foco pesado em POO. | `Kotlin` `Android` |
+| 🌐 **[Sistema de Loja](https://github.com/lucaspaiolog/MeuSiteBacana.git)** | Landing page moderna, responsiva e de alta performance para exibição de projetos. | `Django/Python` `HTML/CSS` |
 
 ---
 
