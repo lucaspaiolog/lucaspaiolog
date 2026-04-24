@@ -1,45 +1,62 @@
-### <h2>Hi there, I'm Lucas Paiolo Gonzalez 👋</h2>
+<h1 align="center">Olá! Eu sou Lucas Paiolo Gonzalez 👋</h1>
 
----
+<p align="center">
+  <strong>Desenvolvedor de Software Multiplataforma | Foco em Dados e Performance</strong><br>
+  <i>Transformando lógica complexa e análise de dados em soluções digitais eficientes.</i>
+</p>
 
-I'm currently finishing my degree in **Multiplatform Software Development** at [FATEC Praia Grande](https://www.vestibularfatec.com.br/unidades-cursos/fatec-praia-grande/).
-
-🎯 **Main Focus**: Databases (SQL & NoSQL)
-
-🔧 **Tech Stack**:
--  SQL / NoSQL (Oracle, MongoDB)  
--  Basic Web: HTML, CSS, JavaScript, PHP  
--  Python & Django  
--  Java  
--  Marketing content (ActiveCampaign, Wordpress)  
-
-<p align="left">
-  <img src="https://www.techasoft.com/debug/img/oracle.png" width="40px" style="margin-right:10px;" />
-  <img src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-512.png" width="40px" style="margin-right:10px;" />
-  <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" width="40px" style="margin-right:10px;" />
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="40px" style="margin-right:10px;" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="40px" style="margin-right:10px;" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px" style="margin-right:10px;" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png" width="40px" style="margin-right:10px;" />
-  <img src="https://blueninja.eu/wp-content/uploads/2024/03/active-campaign-logo.webp" width="40px" style="margin-right:10px;" />
-  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" width="40px" style="margin-right:10px;" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucaspaiologonzalez/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-🌍 **Languages**:
-- Portuguese (Native)  
-- English (Fluent)  
+### 👨‍💻 Sobre mim
+
+Sou graduando em **Desenvolvimento de Software Multiplataforma** pela [FATEC Praia Grande](https://fatecpg.edu.br/) e possuo um background diferenciado na área tech. 
+
+Minha atuação prática como **Analista de Mídia Programática na Spun Mídia** me desenvolveu um forte pensamento analítico e orientado a dados. Lidar com alto volume de informações, otimização de campanhas e métricas de performance me ensinou a não apenas "escrever código", mas a entender a lógica de negócio por trás da tecnologia. 
+
+Hoje, aplico essa visão estratégica no desenvolvimento de software (Web e Mobile), criando sistemas robustos, escaláveis e focados na conversão e na experiência do usuário.
+
+- 🌍 **Idiomas:** Português (Nativo) | Inglês (Fluente)
+- 🎓 **Formação:** FATEC Praia Grande (Desenvolvimento Multiplataforma)
+- 🎯 **Foco Atual:** Arquitetura de Software, Bancos de Dados (SQL/NoSQL) e Desenvolvimento Mobile (Kotlin).
 
 ---
 
-### 📫 How to reach me
+### 🛠️ Minha Stack Tecnológica
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucas-paiolo-gonzalez-7914412ba/"><img src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="30px" style="margin-right:10px;" /></a> 
-  <a href="mailto:paiololucas83@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="30px" style="margin-right:10px;" /> </a>
+Aqui estão as tecnologias que utilizo para construir soluções e analisar dados:
+
+**Mobile & Core:** ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Web (Front & Back):** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+**Banco de Dados & Infra:** ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**Marketing, Dados & CMS:** ![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=wordpress&logoColor=white) ![ActiveCampaign](https://img.shields.io/badge/ActiveCampaign-356AE6?style=for-the-badge&logo=activecampaign&logoColor=white)
+
+---
+
+### 📂 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| 📱 **[Patatag App](https://github.com/lucaspaiolog/Patatag-app)** | Aplicação interativa focada em feedback tátil e sonoro, explorando recursos de UI/UX em dispositivos móveis. | `Mobile` `UI/UX` |
+| 🚗 **[Sistema de Estacionamento](https://github.com/lucaspaiolog)** | Gerenciamento de vagas, cálculo de tempo de permanência e persistência de dados. Foco pesado em POO. | `Kotlin` `Android` |
+| 🌐 **[Meu Portfólio / Site Bacana](https://github.com/lucaspaiolog)** | Landing page moderna, responsiva e de alta performance para exibição de projetos. | `HTML/CSS` `Vercel` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaspaiolog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="Lucas's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaspaiolog&theme=tokyonight&hide_border=true&background=000000" alt="Lucas's Streak" width="48%" />
 </p>
 
----
-
-Thanks for stopping by! 🚀
+<p align="center">
+  <i>"Transformando café e dados em código funcional." 🚀</i>
+</p>
