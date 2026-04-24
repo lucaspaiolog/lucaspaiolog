@@ -4,11 +4,6 @@
 
 I'm currently finishing my degree in **Multiplatform Software Development** at [FATEC Praia Grande](https://www.vestibularfatec.com.br/unidades-cursos/fatec-praia-grande/).
 
-💼 I work as a **Mid-Level Operations Analyst** at **Spun Mídia**, where I create:
-- Email-Marketing  
-- Landing pages  
-- Marketing Automation  
-
 🎯 **Main Focus**: Databases (SQL & NoSQL)
 
 🔧 **Tech Stack**:
